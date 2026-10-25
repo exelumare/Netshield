@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## ☕ Support the Developer
 
 If you find this tool useful or cool, consider supporting the project to keep updates rolling!
-- **Saweria:** [Support EXELUMARE](https://saweria.co/NamaAkunSaweriaLu) *(Ganti dengan link Saweria asli lu)*
+- **Saweria:** [Support EXELUMARE](https://saweria.co/NamaAkunSaweriaLu)
 
 ## ⚠️ Disclaimer
 *NetShield is built strictly for educational purposes, network auditing, and authorized security testing. The developer (EXELUMARE) is not responsible for any misuse or illegal activities conducted using this tool.*
